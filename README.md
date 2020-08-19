@@ -1,3 +1,4 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/75bc75b9e7369a33911b/maintainability)](https://codeclimate.com/github/leandrodaf/picpay-desafio-backend/maintainability)
 
 # picpay-desafio-backend
 - Essa implementação visa resolver o problema proposto no desafio.
